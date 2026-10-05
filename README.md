@@ -3,4 +3,4 @@
 hi
  wip wip wippp
 
-<img width="1378" height="1378" alt="image" src="https://github.com/user-attachments/assets/ce0b6396-4d65-42ed-a8ce-17a4eeefcc73" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/ce0b6396-4d65-42ed-a8ce-17a4eeefcc73" />
