@@ -4,7 +4,7 @@
 hi
  wip wip wippp
 
-<img width="1117" height="1600" alt="image" src="https://github.com/user-attachments/assets/ee272b20-bd28-4bc9-b24d-305d1f5ee271" />
+<img width="800" height="1146" alt="image" src="https://github.com/user-attachments/assets/ee272b20-bd28-4bc9-b24d-305d1f5ee271" />
 
 
 
