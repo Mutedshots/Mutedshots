@@ -1,6 +1,6 @@
-<p align="center">
+![Visitor Count](https://hits.sh/EbuIIient.github.io.svg?label=★&color=000000)\
 
- ![Visitor Count](https://hits.sh/EbuIIient.github.io.svg?label=★&color=000000)
+<p align="center">
 hi
  wip wip wippp
 
